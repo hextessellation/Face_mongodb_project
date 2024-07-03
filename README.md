@@ -1,7 +1,7 @@
 # Face_mongodb_project
 
 This repository contains three files.
-financeManager_test.py is the pure backend, working version of the basic finance manager application.
+FINANCE_MANAGER.py is the pure backend, working version of the basic finance manager application.
 It uses MongoDB to store data and uses python for calculations.
 Features include calculating monthly net savings, yearly projections and generation of a monthly spending cap to avoid losses.
 
