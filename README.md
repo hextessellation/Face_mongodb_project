@@ -6,4 +6,4 @@ It uses MongoDB to store data and uses python for calculations.
 Features include calculating monthly net savings, yearly projections and generation of a monthly spending cap to avoid losses.
 
 
-FinanceManager.py and main.py are part of the web application with an attempt to build a user interface using fastapi and it's inbuilt front-end tools.
+FinanceManager.py and main.py are part of the web application with an attempt to build a user interface using fastapi and it's inbuilt front-end templates.
